@@ -31,8 +31,8 @@ name_of_file = input()
 
 
 # Log-In Credentials
-user = 'thomaslan' 
-password = 'ThisIsForResearch1234' 
+user = '' 
+password = 'wont share this with you' 
 
 api = SentinelAPI(user, password, 'https://scihub.copernicus.eu/dhus')
 
